@@ -1,0 +1,30 @@
+.background {
+    background-color: #141414;
+    color:white
+}
+a {
+    color: white;
+}
+
+.navbar-brand {
+    text-align: center ;
+}
+.navbar-brand img {
+    width: 100%
+}
+
+.a {
+    width: 100%;
+}
+
+.trending,
+.watch-it-again,
+.releases {
+    margin-top: 2rem;;
+}
+
+.footer {
+    color: gray;
+    padding: 5rem
+}
+
